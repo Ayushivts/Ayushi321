@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Ayushi Vats
 
 ### Get in touch: 
-https://www.linkedin.com/in/ayushi-vats-b3b7881aa/
-https://twitter.com/AyushiVats5
-21ayushi.vats@gmail.com
+### https://www.linkedin.com/in/ayushi-vats-b3b7881aa/
+### https://twitter.com/AyushiVats5
+### 21ayushi.vats@gmail.com
 
 
 ### Languages:
