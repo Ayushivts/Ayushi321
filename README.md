@@ -1,15 +1,16 @@
 ### Hi there 👋 I'm Ayushi Vats
 
 ### Get in touch: 
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white  21ayushi.vats@gmail.com  https://twitter.com/home
+
 
 ### Languages:
-HTML5 | CSS3 | javaScript |https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen | C
+HTML5 | CSS3 | javaScript | Python | C
 
 ### Libraries & Framework:
 Bootstrap | NodeJS | SQL | GitHub | Netlify
  
 ### Tools:
 Git | Google Chrome
-Windows | Visual Studio Code
+Windows | Visual Studio Code![image](https://user-images.githubusercontent.com/57026946/145668551-9ac04c2a-8cb9-4d8d-a249-33fde92cee0e.png)
+
  
