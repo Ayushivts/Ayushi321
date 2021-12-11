@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ayushi Vats
 
 ### Get in touch: 
-<img src="{https://www.linkedin.com/in/ayushi-vats-b3b7881aa/}" />
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/Ayushi321/Ayushi321/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
