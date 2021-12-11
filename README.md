@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ayushi Vats
 
 ### Get in touch: 
-! https://www.linkedin.com/in/ayushi-vats-b3b7881aa/
+<img src="{https://www.linkedin.com/in/ayushi-vats-b3b7881aa/}" />
 
 
 
