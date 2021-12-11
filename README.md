@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Ayushi Vats
 
-<!--
 **Ayushi321/Ayushi321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Get in touch: 
 https://www.linkedin.com/in/ayushi-vats-b3b7881aa/  21ayushi.vats@gmail.com  https://twitter.com/home
