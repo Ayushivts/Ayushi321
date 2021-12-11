@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Ayushi Vats
 
 ### Get in touch: 
-https://www.linkedin.com/in/ayushi-vats-b3b7881aa/  21ayushi.vats@gmail.com  https://twitter.com/home
+https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white  21ayushi.vats@gmail.com  https://twitter.com/home
 
 ### Languages:
-HTML5 | CSS3 | javaScript | Python | C
+HTML5 | CSS3 | javaScript |https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen | C
 
 ### Libraries & Framework:
 Bootstrap | NodeJS | SQL | GitHub | Netlify
