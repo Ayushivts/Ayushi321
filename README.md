@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi321&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi321" /> </p>
 
+- 📫 How to reach me **21ayushi.vats@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ayushivats5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushivats5" height="30" width="40" /></a>
@@ -15,3 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi321&show_icons=true&locale=en&layout=compact" alt="ayushi321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi321&" alt="ayushi321" /></p>
+
